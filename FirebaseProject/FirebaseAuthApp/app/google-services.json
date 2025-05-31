@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857697520335",
+    "project_id": "myauthapp-first",
+    "storage_bucket": "myauthapp-first.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857697520335:android:e16a2ee0637a10027e05ba",
+        "android_client_info": {
+          "package_name": "com.vansh.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvokzIZ1z37WLmzQT1BWxppne6eMXxag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

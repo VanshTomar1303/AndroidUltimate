@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988111223318",
+    "project_id": "noteapp-b2c87",
+    "storage_bucket": "noteapp-b2c87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988111223318:android:3ed155a4cdb9249e6f5337",
+        "android_client_info": {
+          "package_name": "com.vansh.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhe24v8b1RuYMMygpQuV9OXzWz6ZbIZ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
